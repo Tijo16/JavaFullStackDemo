@@ -4,7 +4,7 @@ import java.util.*;;
 public void display(String Name, String Title , String Author){
     System.out.println("The name of the book is :"+Name);
     System.out.println("The tittle of the book is :"+Title);
-    System.out.println("The Author of the "+Title+"is :"+Author);
+    System.out.println(""+Title+"is :"+Author);
 
 }
     
